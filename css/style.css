@@ -696,6 +696,7 @@ td {
    TABLET — MIN 768PX
    ================================================== */
 
+/* Tablet responsive layout */
 @media (min-width: 768px) {
 
     .container {
@@ -739,6 +740,7 @@ td {
    DESKTOP — MIN 1024PX
    ================================================== */
 
+/* Desktop responsive layout */
 @media (min-width: 1024px) {
 
     .container {
